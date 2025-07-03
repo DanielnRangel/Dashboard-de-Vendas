@@ -40,7 +40,8 @@ Dashboard-de-Vendas/
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
-- [CSV Parser](https://www.npmjs.com/package/csv-parser) (ou similar)
+- [CSV Parser](https://www.npmjs.com/package/csv-parser)
+- [MongoDB](www.mongodb.com)
 
 ## ⚙️ Como Executar Localmente
 
@@ -81,6 +82,8 @@ npm run dev
     Gráficos e indicadores interativos.
 
     Interface responsiva e moderna com Tailwind CSS.
+
+    Filtrar período de vendas à serem apresentadas nos gráficos.
 
 📝 Licença
 
